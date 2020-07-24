@@ -16,3 +16,6 @@ Make good use. Good luck
     <td valign="top"><img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/circuit_last_version.jpg" width="600" title="Final circuit"></td>
   </tr>
  </table>
+ 
+ 
+<img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/Circuit_and_PCB_schematic.png" title="Circuit connections I first designed in OrCAD and later transposed to Autodesk Eagle">
