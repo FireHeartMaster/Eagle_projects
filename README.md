@@ -9,3 +9,10 @@ While the circuit proposed works fine, as demonstrated in my tests, it's not rea
 Someone that knows this kind of circuit may recognize some of a bit classical small structures in the design. Indeed I used my knowledge of electronics together with some approaches I alreay knew worked in other circuits. I assembled them, made the proper calculations and projected the design you can find here.
 
 Make good use. Good luck
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/PCB_design.png" width="400" title="Printed Circuit Board design I made on Autodesk Eagle"></td>
+    <td valign="top"><img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/circuit_last_version.jpg" width="600" title="Final circuit"></td>
+  </tr>
+ </table>
