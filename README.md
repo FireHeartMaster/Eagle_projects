@@ -17,5 +17,5 @@ Make good use. Good luck
   </tr>
  </table>
  
- 
-<img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/Circuit_and_PCB_schematic.png" title="Circuit connections I first designed in OrCAD and later transposed to Autodesk Eagle">
+ <img src="https://github.com/FireHeartMaster/Eagle_projects/blob/master/Circuit_schematic.png" width="600" title="Circuit connections I first designed in OrCAD and later transposed to Autodesk Eagle">
+
